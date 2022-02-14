@@ -12,7 +12,9 @@ header{
     margin: 3%;
     margin-left: 15%;
     margin-right: 15%;
-    font-size: 40px;
+    font-size: 60px;
+    color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: aqua;
     border-radius: 30px;
 }
