@@ -28,3 +28,10 @@ section{
     padding-right: 30%;
     background-color: cadetblue;
 }
+
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
